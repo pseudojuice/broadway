@@ -17,8 +17,14 @@ body {
   font-size: 23px;
   font-weight: bold;
 }
+a {
+  color: white;
+}
 a.footer {
   font-size: 11px;
+}
+a.header {
+  font-size: 18px;
 }
 h1 {
   font-size: 70px;
@@ -30,10 +36,6 @@ h2 {
 h3 {
   font-size: 23px;
   font-weight: bold;
-}
-a {
-  color: white;
-  font-size: 18px;
 }
 p {
   font-size: 14px;
